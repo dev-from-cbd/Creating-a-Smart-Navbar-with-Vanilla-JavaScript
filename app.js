@@ -6,5 +6,11 @@
 
 const navToggle = document.querySelector(".nav-toggle");
 const links = document.querySelector(".links");
-//const navCenter = document.querySelector(".nav-center");
-//const navHeader = document.querySelector(".nav-header");
+
+navToggle.addEventListener("click", function () {
+  console.log();
+});
+
+log.addEventListener("click", function () {
+  console.log();
+});
